@@ -13,7 +13,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 ༄ ${gp2} ༄
 `.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/Ender-GB-Isis777/LOBO-BOT-MD`},
+    'document': {url: `https://instagram.com/jxtxn17`},
     'mimetype': `application/${document}`,
     'fileName': `「 𝗛𝗲𝗹𝗹𝗼 𝘄𝗼𝗿𝗹 」`,
     'fileLength': 99999999999999,
