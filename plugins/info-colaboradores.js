@@ -22,34 +22,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┏━━━━━━━━━━━━━━━━━━
-┣┅⟣✦ 𝗟𝗼𝗯𝗼-𝗕𝗼𝘁-𝗠𝗗
-┣┅⟣✦ 𝗖𝗼𝗹𝗮𝗯𝗼𝗿𝗮𝗱𝗼𝗿𝗲𝘀(𝗦𝘁𝗮𝗳𝗳)
-┗━━━━━━━━━━━━━━━━━━┛
-━━━━━━━━━━━━━━━━━━━━
-┣┅⟣✦𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗼𝘀 𝗚𝗶𝘁𝗵𝘂𝗯
-
-┣𝗘𝗻𝗱𝗲𝗿|𝗚𝗶𝘁𝗵𝘂𝗯:https://github.com/Ender-GB-Isis777/LOBO-BOT-MD
-
-┣𝗔𝘇𝗮𝗺𝗶|𝗚𝗶𝘁𝗵𝘂𝗯: https://github.com/AZamijs/Curiositybot-MD
-
-┣𝗛𝗮𝗰𝗵𝗲𝗷𝗼𝘁𝗮|𝗚𝗶𝘁𝗵𝘂𝗯: https://github.com/HACHEJOTA/Hachiko-bot-MD
-
-┣𝗔𝘅𝗲𝗹|𝗚𝗶𝘁𝗵𝘂𝗯: https://github.com/Jxtxn17/Turbobot-MD
-
-┣𝗦𝗮𝗻𝘀 𝗥4|𝗚𝗶𝘁𝗵𝘂𝗯: https://github.com/Sans-r4
-
-┣𝗘𝗻𝘇𝗼|𝗚𝗶𝘁𝗵𝘂𝗯: https://github.com/Enzovaselevich
-
-┣𝗘𝗱𝗲𝗿|𝗚𝗶𝘁𝗵𝘂𝗯:https://github.com/Aleixon127271
-
-┣┅⟣✦𝗡𝘂𝗺𝗲𝗿𝗼𝘀 
-┣𝗘𝗻𝗱𝗲𝗿:+505 5812 4470
-┣𝗔𝘇𝗮𝗺𝗶:+52 729 488 8993
-┣𝗛𝗮𝗰𝗵𝗲𝗷𝗼𝘁𝗮:+52 443 786 3111
-┣𝗔𝘅𝗲𝗹:+51 929 972 576
-┣𝗦𝗮𝗻𝘀 𝗥4:+58 412-9799955
-┣𝗘𝗻𝘇𝗼:+54 9 11 6875-8497
-┣𝗘𝗱𝗲𝗿:+57 310 6040746
+┣ 🚫🤚🏼 Hey alto si deseas ver mi menu\nmanda el siguiente comando .menucompleto\nrecuerda si tbn quieres un bot no dudes\n en comunicarte con mi creador we.me/51907913096
 ┗━━━━━━━━━━━━━━━━━━┛
  `.trim();
     if (m.isGroup) {
@@ -65,7 +38,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, '[❕] 𝗔𝗹𝗴𝗼 𝘀𝗮𝗹𝗶𝗼 𝗺𝗮𝗹, 𝗽𝗼𝗿 𝗳𝗮𝘃𝗼𝗿 𝗿𝗲𝗽𝗼𝗿𝘁𝗲𝗹𝗼 𝗮𝗹 𝗦𝘁𝗮𝗳𝗳', m);
   }
 };
-handler.command = /^(colab|colaboradores)$/i;
+handler.command = /^(menu|help)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;
