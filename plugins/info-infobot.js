@@ -51,7 +51,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/Ender-GB-Isis777/LOBO-BOT-MD` },
+    document: { url: `https://instagram.com/jxtxn17` },
     mimetype: `application/${document}`,
     fileName: `[𝕷𝖔𝖇𝖔-𝕸𝕯]`,
     fileLength: 99999999999999,
@@ -60,7 +60,7 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/Ender-GB-Isis777/LOBO-BOT-MD",
+        mediaUrl: "https://instagram.com/jxtxn17",
         mediaType: 2,
         previewType: "pdf",
         title: "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ",
