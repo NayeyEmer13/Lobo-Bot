@@ -8,18 +8,18 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['50558124470', '🍭𝙴𝙽𝙳𝙴𝚁 𝙻𝙱 𝙲𝚁𝙴𝙰𝚃𝙾𝚁🍭', true],
-  ['527294888993', '🍧𝚂𝚃𝙰𝙵𝙵 𝙰𝚉𝙰𝙼𝙸🍧', true],
-  ['5491168758497'],
-  ['50576390682'],
-  ['51929972576', '🍧𝚂𝚃𝙰𝙵𝙵 𝙰𝚇𝙴𝙻🍧', true],
-  ['5214437863111', '🍧𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙹🍧', true],
-  ['584129799955'], ['573106040746'], ['51941987051'],
+  ['51907913096', '🍭𝙴𝙽𝙳𝙴𝚁 𝙻𝙱 𝙲𝚁𝙴𝙰𝚃𝙾𝚁🍭', true],
+  ['51967647592', '🍧𝚂𝚃𝙰𝙵𝙵 Naye🍧', true],
+  ['51907913096'],
+  ['51907913096'],
+  ['51977835959', '🍧𝚂𝚃𝙰𝙵𝙵 sopi🍧', true],
+  ['51907913096', '🍧𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙹🍧', true],
+  ['51907913096'], ['51977835959'], ['51967647592'],
 
   ];
 
-global.suittag =['50558124470']
-global.prems =['50558124470']
+global.suittag =['51907913096']
+global.prems =['51907913096']
 
 global.packname = '🌼𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃\n🌼𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾\n🌼𝚂𝙾𝙳𝙸𝙰𝙲𝙰𝙻\n🌼𝙶𝚕𝚘𝚋𝚊𝚕 𝚂𝚃𝙰𝙵𝙵';
 global.author = '☆𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕸𝕯☆\n☆𝕰𝖓𝖉𝖊𝖗 𝕷𝕯☆\n☆𝕬𝖗𝖎𝖊𝖘☆\n☆𝕺𝖜𝖓𝖊𝖗𝖘☆ ';
@@ -48,17 +48,17 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 
 //****************************
-global.gp1 = 'https://whatsapp.com/channel/0029VaCtl9r05MUjcuMd9l2W'
-global.gp2 = 'https://chat.whatsapp.com/Li46EUQhA5tJqXEENfKPJd'
+global.gp1 = 'https://chat.whatsapp.com/Htl9XUuRKud73O6sAlMNFZ'
+global.gp2 = 'https://chat.whatsapp.com/Htl9XUuRKud73O6sAlMNFZ'
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙻𝙾𝙱𝙾-𝙱𝙾𝚃-𝙻𝚒𝚝𝚎`;
 global.gt = '★𝗟𝗼𝗯𝗼-𝗕𝗼𝘁-𝗟𝗶𝘁𝗲★';
 global.mysticbot = '★𝗟𝗢𝗕𝗢 - 𝗟𝗶𝘁𝗲★';
-global.md = 'https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite';
-global.mysticbot = 'https://github.com/Ender-GB-Isis777/Lobo-Bot-Lite';
+global.md = 'https://instagram.com/jxtxn17';
+global.mysticbot = 'https://github.com/Nayee/Lobo-Bot-Lite';
 global.waitt = '*[⛔] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[⛔] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[⛔] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '50576390682', '50558124470';
+global.nomorown = '51907913096', '51907913096';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
